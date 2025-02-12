@@ -1,0 +1,17 @@
+{
+  "name": "Secret Santa Assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.2.0",
+    "fast-csv": "^5.0.2",
+    "fs": "0.0.1-security"
+  }
+}
